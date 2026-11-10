@@ -1,0 +1,5 @@
+flask>=3.0
+tensorflow>=2.15
+music21>=9.1
+numpy
+pandas
